@@ -54,7 +54,7 @@ else
 {
 
      
-System.out.format("There are no real solutions");
+System.out.println("There are no real solutions");
       
 }
   
